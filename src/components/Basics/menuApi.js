@@ -90,6 +90,14 @@ const Menu = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
+    {
+      id: 11,
+      image: "../images/mehndi.jpg",
+      name: "Mehndi",
+      category: "Anjali",
+      price: "1000₹",
+      description: "Mehndi lgane ka"
+    },
   ];
   
   export default Menu;
